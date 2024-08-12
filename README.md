@@ -11,10 +11,10 @@ This repo contains the group data analysis of Fran, Tess and Rumbie.
 We also investsigated correlation between 'YearsCodePro' and 'WorkExperience' and visualised our findings using pandas.
 
 Assignment requirements:
-Task 1: Build upon the EDA from Week 1 to conduct a more detailed Explanatory Data
+1. Build upon the EDA from Week 1 to conduct a more detailed Explanatory Data
 Analysis
-Task 2: Identify several hypotheses related to your problem based on your EDA, and
+2. Identify several hypotheses related to your problem based on your EDA, and
 perform appropriate statistical tests
-Task 3: Investigate potential correlations in the dataset, explaining what each correlation
+3. Investigate potential correlations in the dataset, explaining what each correlation
 means in the context of your problem
-Task 4: Translate your analytical insights into potential solutions or recommendations
+4. Translate your analytical insights into potential solutions or recommendations
